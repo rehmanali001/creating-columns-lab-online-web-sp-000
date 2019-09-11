@@ -65,4 +65,5 @@ img:hover {
 .large {
   width: 300%;
   height: auto;
+  text-align: auto;
 }
